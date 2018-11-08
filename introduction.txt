@@ -1,2 +1,0 @@
-This is a mini project on library management which i made with the help of python Based web framework
-known as Django.
